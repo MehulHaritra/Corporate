@@ -1,0 +1,13 @@
+Customer Mail Id =user@sub-domain.yopmail.com
+Customer Mail Id =user@yopmail.co.in
+Customer Mail Id = "user.name"@yopmail.com
+Customer Mail Id = user@[192.168.1.1]
+Customer Mail Id = [64 a’s]@yopmail.com
+Customer Mail Id = [254-char valid]
+Customer Mail Id =a@yopmail.com
+Customer Mail Id =user123@yopmail.com
+Customer Mail Id =first.last@yopmail.com
+Customer Mail Id =jatin+1@yopmail.com
+Customer Mail Id =rinku_singh@yopmail.com
+Customer Mail Id =TUSHAR@YOPMAIL.COM
+Customer Mail Id =user@mail.yopmail.com

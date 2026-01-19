@@ -1,0 +1,2 @@
+Invoice_No,Invoice_Date,Group,Department,Product_Code,Product_description,Product_long_description,Quantity,Price,Discount,Prdct_Net_Amount,Branch_Name,Agent_Name,USER_NAME,Customer Contact No,Customer Mail Id,Destination Country,Customer Name
+IND0061306250005,13/06/2025,Travel Concierge,Concierge,DOC-RTL,Doctor on Call - RTL,Doctor on Call - RTL,1,3000,0,300,Pune Jvac,Darshan,Sonu Verma,124567891,tushar@yopmail.com,Germany,darshil
