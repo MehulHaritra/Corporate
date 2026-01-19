@@ -14,18 +14,18 @@ const firstNames = [
   'Aarav', 'Vivaan', 'Aditya', 'Vihaan', 'Arjun', 'Sai', 'Arnav', 'Ayaan', 'Krishna', 'Ishaan',
   'Shaurya', 'Atharva', 'Advik', 'Pranav', 'Reyansh', 'Aadhya', 'Ananya', 'Pari', 'Anika', 'Navya',
   'Diya', 'Saanvi', 'Aarohi', 'Kiara', 'Myra', 'Avni', 'Sara', 'Prisha', 'Riya', 'Anaya',
-  'Rajesh', 'Priya', 'Amit', 'Sneha', 'Vikram', 'Anjali', 'Rohan', 'Kavya', 'Tushar', 'Haritra'
+  'Rajesh', 'Priya', 'Amit', 'Sneha', 'Vikram', 'Anjali', 'Rohan', 'Kavya', 'Tushar', 
 ];
 
 const lastNames = [
-  'Sharma', 'Verma', 'Singh', 'Kumar', 'Patel', 'Gupta', 'Shah', 'Reddy', 'Mehta', 'Nair',
+  'Sharma', 'Sonani','Bordiwala','Aalewar','Haritra','Verma', 'Singh', 'Kumar', 'Patel', 'Gupta', 'Shah', 'Reddy', 'Mehta', 'Nair',
   'Agarwal', 'Joshi', 'Desai', 'Kapoor', 'Malhotra', 'Rao', 'Iyer', 'Chopra', 'Bhat', 'Pandey',
   'Kulkarni', 'Mishra', 'Thakur', 'Saxena', 'Bansal', 'Jain', 'Sinha', 'Pillai', 'Menon', 'Das'
 ];
 
 const countries = [
-  'United States', 'United Kingdom', 'Canada', 'Australia', 'Germany', 
-  'France', 'Singapore', 'UAE', 'Italy', 'Spain'
+  'India','United States', 'United Kingdom', 'Canada', 'Australia', 'Germany', 
+  'France', 'Singapore', 'UAE', 'Italy', 'Spain', 
 ];
 
 // Function to generate random Indian name
