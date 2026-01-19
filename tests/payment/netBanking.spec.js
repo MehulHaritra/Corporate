@@ -29,7 +29,7 @@ test.describe('NetBanking Payment Functional Test', () => {
     await registerPage.scrollToForm();
     await registerPage.enterName(testData.name);
     await registerPage.enterEmail(testData.email);
-    await registerPage.enterMobile(testData.mobile);
+    // await registerPage.enterMobile(testData.mobile); 
      await registerPage.enterJourneydate(testData.JourneyDate);
     // await registerPage.selectSourceCountry(testData.countries.source);
     await registerPage.selectDestinationCountry(testData.countries.destination);
