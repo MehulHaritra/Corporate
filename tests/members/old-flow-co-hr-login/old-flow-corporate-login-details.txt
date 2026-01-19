@@ -1,0 +1,10 @@
+			
+Role: Corporate	
+Mobile No.: 3355662288	
+Email: vaibhav@yopmail.com	
+Password: Test@1234
+
+Role: HR	
+Mobile No.: 4242425656	
+Email: kartik@yopmail.com	
+Password: Test@1234

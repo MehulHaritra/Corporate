@@ -1,0 +1,26 @@
+{
+  "name": {
+    "positive": ["Saloni QA"]
+  },
+  "email": {
+    "positive": ["saloni@yopmail.com"]
+  },
+  "mobile": {
+    "positive": ["9712738076"]
+  },
+  "countries": {
+    "source": "India",
+    "destination": "United States"
+  },
+  "upi": {
+    "success": "success@razorpay",
+    "failure": "reject@razorpay"
+  },
+  "adminLogin": {
+    "name": "Admin",
+    "username": "9687298058",
+    "password": "Cure@3210#",
+    "role": "Admin",
+    "url": "https://staging.corporate.welcomecure.com/admin/admin_user/corporate"
+  }
+}

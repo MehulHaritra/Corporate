@@ -1,0 +1,8 @@
+node_modules/
+package.json
+.env 
+playwright-report 
+report
+test-results
+old-report
+package-lock.json

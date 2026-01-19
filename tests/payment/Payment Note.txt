@@ -1,0 +1,13 @@
+Razor pay payment : 
+1. VFS UK - india
+https://staging.corporate.welcomecure.com/vfs_uk?_id=6899dd1d34920aa9c9d7b1d0
+
+Strip Payment: 
+
+1. onevasco UAE
+Abudhabi: https://staging.corporate.welcomecure.com/onevascouae?_id=6901c0c26554a21985c311b1
+Dubai: https://staging.corporate.welcomecure.com/onevascouae?_id=69005ab1b71af7900bf68ba1
+Sharjah: https://staging.corporate.welcomecure.com/onevascouae?_id=69007a90b71af7900bf68ba3
+
+2. Oman
+https://staging.corporate.welcomecure.com/onevascooman?_id=6901f01d6554a21985c311bb
