@@ -112,8 +112,8 @@ console.log('completeCardPayment method finished.');
     console.log('Waiting for NetBanking payment method to be. visible...');
     await frame.locator(this.netBankingMethod).first().waitFor({ state: 'visible' });
 
-     console.log('Waiting 3 seconds before clicking NetBanking...');
-    await this.page.waitForTimeout(3000);  // <-- CORRECT WAIT
+     console.log('Waiting 2 seconds before clicking NetBanking...');
+    await this.page.waitForTimeout(2000);  // <-- CORRECT WAIT
 
     console.log('Clicking NetBanking payment method...'); 
     await frame.locator(this.netBankingMethod).first().click();

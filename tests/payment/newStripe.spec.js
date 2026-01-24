@@ -4,7 +4,7 @@ const StripePage = require('../../pages/StripePage.js');
 const ThankYouPage = require('../../pages/ThankYouPage');
 const fs = require('fs');
 
-const BASE_URL = 'https://staging.vfs.welcomecure.online/ng-abujauk';
+const BASE_URL = 'https://staging.vfs.welcomecure.online/uae-abudhabi';
 
 // Number of times to run the test
 const NUMBER_OF_RUNS = 2;
