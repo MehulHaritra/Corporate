@@ -107,8 +107,8 @@ const testData = {
   countries: { source: 'India', destination: 'United States' },
   SelectSalesPerson : {Person : 'Rajesh'} ,
   cards: {
-    Mastercard: {
-      cardnumber: '4386 2894 0766 0153',
+    VisaCard: {
+      cardnumber: '4718 6091 0820 4366',
       mmyy: '10/26',
       cvv: '123'
     }
