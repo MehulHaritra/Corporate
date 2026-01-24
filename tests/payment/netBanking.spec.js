@@ -40,7 +40,7 @@ function generateRandomIndianName() {
 // Function to generate random 11-digit mobile number
 function generateMobileNumber() {
   const prefix = '91';
-  const randomDigits = Math.floor(1000000000 + Math.random() * 9000000000);
+  const randomDigits = Math.floor(10000000 + Math.random() * 9000000000);
   return prefix + randomDigits;
 }
 

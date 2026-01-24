@@ -25,7 +25,7 @@ async scrollToForm() {
   await this.page.locator(formLocator).scrollIntoViewIfNeeded();
 }
 
-  async enterName(name) { await this.type(this.nameField, name); }
+  async  enterName(name) { await this.type(this.nameField, name); }
   async enterEmail(email) { await this.type(this.emailField, email); }
   async enterMobile(mobile) { await this.type(this.mobileField, mobile); }
   
