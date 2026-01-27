@@ -8,7 +8,9 @@ const fs = require('fs');
 const BASE_URL = 'https://staging.onevasco.welcomecure.online/in-chandigarh?lang=en-US&dir=ltr';
 
 // Number of times to run the test
-const NUMBER_OF_RUNS = 10;
+const NUMBER_OF_RUNS = 10; 
+
+
 
 // Indian name pools
 const firstNames = [
